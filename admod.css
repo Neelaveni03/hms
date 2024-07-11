@@ -1,0 +1,62 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100vh;
+}
+.menu{
+    border-right:1.5px solid rgba(235, 235, 235);
+    width: 21%;
+    height: 100vh;
+    box-shadow: 0 0px 0px 2px rgba(240,240,240,0.3);
+}
+.dash-body{
+    width: 79%;
+    height: 100vh;
+}
+.menu-container{
+    width: 100%;
+    border-spacing: 0;
+    
+}
+.profile-title{
+    font-weight: 500;
+    color: #161c2d;
+    font-size: 22px;
+    margin: 0;
+    text-align: left;
+    padding-left: 8%;
+}
+.profile-subtitle{
+    font-weight: 300;
+    color: #8492a6;
+    font-size: 15px;
+    margin: 0;
+    text-align: left;
+    padding-left: 8%;
+}
+.logout-btn{
+    margin-top: 30px;
+    width: 85%;
+}
+.profile-container{
+    border-bottom: 1.5px solid rgb(235,235,235);
+    padding-top: 18%;
+    padding-bottom: 12%;
+    text-align: center;
+
+}
+.wrapper ul li{
+    padding: 20px;
+    list-style-type: none;
+    font-size: 20px;
+}
+.fa-solid{
+    width: 30px;
+}
+.wrapper ul li:hover{
+    background-color: whitesmoke;
+}
+
+
+
+ 

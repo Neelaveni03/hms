@@ -1,0 +1,33 @@
+
+.content{
+    position: relative;
+    margin-top: 5vh;
+    min-height: 90vh;
+}
+.content .cards{
+    padding:14px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.content .cards .card{
+    width: 250px;
+    height: 180px;
+    background: bisque;
+    margin: 20px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+.heading-sub12 {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: right;
+
+    
+
+    
+}
